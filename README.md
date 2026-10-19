@@ -41,7 +41,7 @@ An interactive, high-tension word deduction game built with Python and CustomTki
 - **LinkedIn**: [linkedin.com/in/rudra-wagh-187680327](https://www.linkedin.com/in/rudra-wagh-187680327)
 
 ---
-<img src="Assets/Screenshot 2026-10-20 010303.png" height=300px>
+<img src="Assets/Screenshot 2026-10-20 010303.png" height=200px> <img src="Assets/Screenshot 2026-10-20 010807.png" height=200px>
 
 ## 🚀 Quick Setup
 
